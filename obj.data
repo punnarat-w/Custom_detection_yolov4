@@ -2,4 +2,4 @@ classes = 1
 train = data/train.txt
 valid = data/test.txt
 names = data/obj.names
-backup = /My drive/YOLOv4/backup
+backup = /MyDrive/YOLOv4/backup
